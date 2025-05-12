@@ -31,7 +31,7 @@ pip install numpy scipy matplotlib
 
 1. Clone the repo
 ```
-git clone https://github.com/〈your-org〉/autoxidation-microkinetics.git
+git clone https://github.com/asterlingchem/autoxidation-microkinetics.git
 cd autoxidation-microkinetics
 ```
 
